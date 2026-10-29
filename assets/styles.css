@@ -1,0 +1,5 @@
+/* 한국어 본문 가독성: 줄 간격과 표 글자 크기 */
+body { line-height: 1.75; word-break: keep-all; }
+table { font-size: 0.9em; }
+td code, th code { white-space: nowrap; }
+.doc-info td:first-child { white-space: nowrap; font-weight: 600; }
