@@ -4,7 +4,7 @@
     "href": "onprem-ops/index.html",
     "title": "기관 전용 배포·보안 운영 가이드",
     "section": "",
-    "text": "항목\n내용\n\n\n\n\n버전\n0.1 (검토 전 초안)\n\n\n작성일\n2026-10-12\n\n\n작성\n차라투 임창우(초안 작성에 Claude Code 사용)\n\n\n기준 코드\nclinical-agent 90998d9\n\n\n등록부\nSkill 106종(생성 2026-10-27 13:58:45 UTC)"
+    "text": "항목\n내용\n\n\n\n\n버전\n0.1\n\n\n작성일\n2026-10-12\n\n\n작성\n차라투 임창우(초안 작성에 Claude Code 사용)\n\n\n기준 코드\nclinical-agent b66c5f9\n\n\n등록부\nSkill 106종(생성 2026-10-27 13:58:45 UTC)"
   },
   {
     "objectID": "onprem-ops/index.html#문서-안내",
@@ -137,7 +137,7 @@
     "href": "skill-standard/index.html",
     "title": "Agent Skill 표준·등록부",
     "section": "",
-    "text": "항목\n내용\n\n\n\n\n버전\n0.1 (검토 전 초안)\n\n\n작성일\n2026-10-12\n\n\n작성\n차라투 임창우(초안 작성에 Claude Code 사용)\n\n\n기준 코드\nclinical-agent 90998d9\n\n\n등록부\nregistry/registry.json 생성 2026-10-27 13:58:45 UTC, 등록 Skill 106종"
+    "text": "항목\n내용\n\n\n\n\n버전\n0.1\n\n\n작성일\n2026-10-12\n\n\n작성\n차라투 임창우(초안 작성에 Claude Code 사용)\n\n\n기준 코드\nclinical-agent b66c5f9\n\n\n등록부\nregistry/registry.json 생성 2026-10-27 13:58:45 UTC, 등록 Skill 106종"
   },
   {
     "objectID": "skill-standard/index.html#sec-overview",
@@ -263,7 +263,7 @@
     "href": "user-guide/index.html",
     "title": "openstat AI 분석 사용자 가이드",
     "section": "",
-    "text": "항목\n내용\n\n\n\n\n버전\n0.1 (검토 전 초안)\n\n\n작성일\n2026-10-12\n\n\n작성\n차라투 임창우(초안 작성에 Claude Code 사용)\n\n\n기준 코드\nclinical-agent 90998d9, 등록부 생성 2026-10-27 13:58:45 UTC\n독자별로 먼저 읽을 곳:"
+    "text": "항목\n내용\n\n\n\n\n버전\n0.1\n\n\n작성일\n2026-10-12\n\n\n작성\n차라투 임창우(초안 작성에 Claude Code 사용)\n\n\n기준 코드\nclinical-agent b66c5f9, 등록부 생성 2026-10-27 13:58:45 UTC\n독자별로 먼저 읽을 곳:"
   },
   {
     "objectID": "user-guide/index.html#sec-overview",
